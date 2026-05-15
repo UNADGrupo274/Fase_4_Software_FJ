@@ -1,1 +1,0 @@
-# Fase 4 - Componente Práctico, Primer Commit
