@@ -1,1 +1,21 @@
-2026-05-14 21:49:58,358 - ERROR - ¡Prueba exitosa! Error detectado: division by zero
+2026-05-14 21:49:58,358 - ERROR - ï¿½Prueba exitosa! Error detectado: division by zero
+2026-05-18 12:47:53 - INFO - Cliente registrado en lista interna de forma exitosa: 101010
+2026-05-18 12:47:53 - INFO - Servicio aï¿½adido al catï¿½logo interno de forma exitosa: S01
+2026-05-18 12:47:53 - INFO - Servicio aï¿½adido al catï¿½logo interno de forma exitosa: E01
+2026-05-18 12:47:53 - INFO - Servicio aï¿½adido al catï¿½logo interno de forma exitosa: A01
+2026-05-18 12:47:53 - INFO - Iniciando proceso de reserva para Cliente: Daniel Vanegas (Doc: 101010)
+2026-05-18 12:47:53 - INFO - Reserva exitosa: Sala de Juntas VIP. Total: $357000.00
+2026-05-18 12:47:53 - INFO - Clï¿½usula FINALLY: Finalizando transacciï¿½n de reserva. Estado final: Confirmada
+2026-05-18 12:47:53 - INFO - Cliente registrado en lista interna de forma exitosa: 303030
+2026-05-18 12:47:53 - INFO - Iniciando proceso de reserva para Cliente: Luna Galindo (Doc: 303030)
+2026-05-18 12:47:53 - ERROR - Fallo de disponibilidad: El servicio 'Sala de Juntas VIP' ya estï¿½ ocupado.
+2026-05-18 12:47:53 - INFO - Clï¿½usula FINALLY: Finalizando transacciï¿½n de reserva. Estado final: Fallida
+2026-05-18 12:47:53 - INFO - Iniciando proceso de reserva para Cliente: Daniel Vanegas (Doc: 101010)
+2026-05-18 12:47:53 - INFO - Reserva exitosa: Proyector Lï¿½ser 4K. Total: $595000.00
+2026-05-18 12:47:53 - INFO - Clï¿½usula FINALLY: Finalizando transacciï¿½n de reserva. Estado final: Confirmada
+2026-05-18 12:47:53 - INFO - Iniciando proceso de reserva para Cliente: Luna Galindo (Doc: 303030)
+2026-05-18 12:47:53 - ERROR - Error inesperado procesando la reserva: La cantidad de horas debe ser mayor a cero.
+2026-05-18 12:47:53 - INFO - Clï¿½usula FINALLY: Finalizando transacciï¿½n de reserva. Estado final: Fallida
+2026-05-18 12:47:53 - INFO - Iniciando proceso de reserva para Cliente: Daniel Vanegas (Doc: 101010)
+2026-05-18 12:47:53 - ERROR - Reserva invï¿½lida: Reserva excede el lï¿½mite operativo diario. Causa original: Exceso de horas permitidas en una simulaciï¿½n diaria
+2026-05-18 12:47:53 - INFO - Clï¿½usula FINALLY: Finalizando transacciï¿½n de reserva. Estado final: Fallida
