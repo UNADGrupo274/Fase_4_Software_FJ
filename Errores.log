@@ -19,3 +19,7 @@
 2026-05-18 12:47:53 - INFO - Iniciando proceso de reserva para Cliente: Daniel Vanegas (Doc: 101010)
 2026-05-18 12:47:53 - ERROR - Reserva inv�lida: Reserva excede el l�mite operativo diario. Causa original: Exceso de horas permitidas en una simulaci�n diaria
 2026-05-18 12:47:53 - INFO - Cl�usula FINALLY: Finalizando transacci�n de reserva. Estado final: Fallida
+2026-05-19 15:59:31 - INFO - Cliente registrado: sfsdf
+2026-05-19 15:59:47 - INFO - Procesando reserva para Cliente: 54646 (Doc: sfsdf)
+2026-05-19 15:59:47 - INFO - Reserva exitosa. Total: $4800000.00
+2026-05-19 15:59:47 - INFO - Transacci�n finalizada. Estado: Confirmada
